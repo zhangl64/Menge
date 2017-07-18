@@ -18,3 +18,7 @@ ipch/
 doc/output
 doc/tags
 examples/**/*.png
+.DS_Store
+ExeWindows/
+projects/VS2015/Menge/.vs/
+projects/VS2015/Plugins/.vs/
